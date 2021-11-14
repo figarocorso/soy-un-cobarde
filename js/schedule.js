@@ -2,8 +2,8 @@ $( document ).ready(function() {
     $.getJSON("http://localhost:8000/schedule.json").then(function (data) {
         var items = []
         $.each( data, function( key, game ) {
-            li_string = "<li>" + game.when + " | " + game.visiting + " | " + game.hosting + "</li>";
-            items.push(li_string);
+            row = "<tr class='py-5 my-5'><td>" + game.when + "</td><td>" + game.visiting + "</td><td>" + game.hosting + "</td></tr>";
+            items.push(row);
         });
         $( "#games-list" ).append(items.join(''));
     });
