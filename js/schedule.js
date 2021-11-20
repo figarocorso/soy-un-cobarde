@@ -1,6 +1,7 @@
 $( document ).ready(function() {
     var getUrl = window.location;
-    var baseUrl = getUrl .protocol + "//" + getUrl.host;
+    var baseUrl = getUrl .protocol + "//" + getUrl.host + "/" + getUrl.pathname.split('/')[1];
+    console.log(baseUrl);
     $.getJSON(baseUrl + "/schedule.json").then(function (data) {
         var items = []
         $.each( data, function( key, game ) {
