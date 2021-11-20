@@ -38,5 +38,35 @@
     "when": "21/11/2021 21:30:00",
     "visiting": "Los Angeles Clippers",
     "hosting": "Dallas Mavericks"
+  },
+  {
+    "when": "23/11/2021 01:00:00",
+    "hosting": "Cleveland Cavaliers",
+    "visiting": "Brooklyn Nets"
+  },
+  {
+    "when": "24/11/2021 01:30:00",
+    "hosting": "New York Knicks",
+    "visiting": "Los Angeles Lakers"
+  },
+  {
+    "when": "25/11/2021 01:00:00",
+    "hosting": "Indiana Pacers",
+    "visiting": "Los Angeles Lakers"
+  },
+  {
+    "when": "27/11/2021 02:00:00",
+    "hosting": "Memphis Grizzlies",
+    "visiting": "Atlanta Hawks"
+  },
+  {
+    "when": "28/11/2021 00:00:00",
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Minnesota Timberwolves"
+  },
+  {
+    "when": "28/11/2021 21:30:00",
+    "hosting": "Los Angeles Clippers",
+    "visiting": "Golden State Warriors"
   }
 ]
