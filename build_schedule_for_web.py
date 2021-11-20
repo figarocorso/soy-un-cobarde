@@ -18,6 +18,10 @@ class Game:
     def __str__(self):
         return str(self.info)
 
+    def __bool__(self):
+        return bool(self.info.get("hosting", None) is not None
+                    and self.info.get("visiting", None) is not None)
+
     @property
     def when(self):
         return datetime.strptime(self.info["when"], self.when_format)
@@ -38,8 +42,9 @@ class Game:
 
     def add_teams(self):
         teams = self.li_tag.find("div", class_="title-team").find_all(attrs={"itemprop": "name"})
-        self.info["visiting"] = teams[0].contents[0]
-        self.info["hosting"] = teams[1].contents[0]
+        if teams:
+            self.info["hosting"] = teams[0].contents[0]
+            self.info["visiting"] = teams[1].contents[0]
 
 
 class ScheduleBuilder:
@@ -64,7 +69,8 @@ class ScheduleBuilder:
 
         for game_li in self._get_game_lis():
             game = Game(game_li)
-            self.add_game(game)
+            if game:
+                self.add_game(game)
 
     def _get_game_lis(self):
         soup = BeautifulSoup(self.html, "lxml")
