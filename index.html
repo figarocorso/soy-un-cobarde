@@ -6,9 +6,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
     <script src="js/schedule.js"></script>
+    <link href="css/style.css" rel="stylesheet">
   </head>
-  <body>
+  <body class="bg-secondary">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top mb-4 px-5">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">Soy un cobarde</a>
@@ -34,19 +36,10 @@
     </nav>
     <div class="container-fluid">
       <div class="row justify-content-center">
-        <div style="max-width:900px;">
-          <div class="card">
-            <div class="card-header">
-                  Lista de partidos
-            </div>
-            <div class="card-body">
-                  <table class="table table-hover table-dark">
-                    <tbody id="games-list">
-                  </tbody>
-                  </table>
-            </div>
-          </div>
-        </div>
+        <table class="table table-hover table-dark text-white table-striped table-fit">
+          <tbody id="games-list">
+        </tbody>
+        </table>
       </div>
     </div>
   </body>
