@@ -14,16 +14,21 @@ FILE = f"{pathlib.Path(__file__).parent.absolute()}/../schedule.json"
 
 class ScheduleBuilder:
     def __init__(self):
-        self.games = self.load_games_file()
+        self.games = []
+        self.load_games_file()
         self.html = ""
 
     def load_games_file(self):
         with open(FILE, "r") as games_file:
-            return json.load(games_file)
+            json_games = json.load(games_file)
+
+        for game in json_games:
+            self.games.append(Game(game))
+
 
     def save_games_file(self):
         with open(FILE, "w") as games_file:
-            json.dump(self.games, games_file, indent=2)
+            json.dump([game.info for game in self.games], games_file, indent=2)
 
     def retrieve_html_page(self):
         self.html = requests.get(URL).content
@@ -44,6 +49,6 @@ class ScheduleBuilder:
 
     def add_game(self, new_game):
         for game in self.games:
-            if game["when"] == new_game.info["when"]:
+            if game.schedule == new_game.schedule:
                 return
-        self.games.append(new_game.info)
+        self.games.append(new_game)
