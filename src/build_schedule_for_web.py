@@ -1,3 +1,4 @@
+import pathlib
 import json
 from datetime import datetime
 
@@ -5,7 +6,9 @@ import requests
 from bs4 import BeautifulSoup
 
 URL = "https://www.movistarplus.es/nba/horarios"
-FILE = "schedule.json"
+
+
+FILE = f"{pathlib.Path(__file__).parent.absolute()}/../schedule.json"
 
 
 class Game:
@@ -31,6 +34,7 @@ class Game:
 
     def build_info(self):
         self.add_when()
+        self.add_pretty_when()
         self.add_teams()
 
     def add_when(self):
@@ -39,6 +43,9 @@ class Game:
         data = f"{day_month}/{datetime.today().year} {time}"
         pattern = "%d/%m/%Y %H:%M"
         self.info["when"] = self.format_when(datetime.strptime(data, pattern))
+
+    def add_pretty_when(self):
+        self.info["pretty_when"] = self.when.strftime("%d/%m %H:%M")
 
     def add_teams(self):
         teams = self.li_tag.find("div", class_="title-team").find_all(attrs={"itemprop": "name"})
