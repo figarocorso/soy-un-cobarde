@@ -1,1 +1,6 @@
+# VIM
 *.swp
+
+# PYTHON
+__pycache__/
+*.pyc
