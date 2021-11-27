@@ -1,72 +1,107 @@
 [
   {
-    "when": "14/11/2021 21:30:00",
+    "hosting": "San Antonio Spurs",
     "visiting": "Los Angeles Lakers",
-    "hosting": "San Antonio Spurs"
+    "when": "14/11/2021 21:30:00"
   },
   {
-    "when": "16/11/2021 01:30:00",
-    "visiting": "New York Knicks",
-    "hosting": "Indiana Pacers"
-  },
-  {
-    "when": "17/11/2021 01:30:00",
-    "visiting": "Brooklyn Nets",
-    "hosting": "Golden State Warriors"
-  },
-  {
-    "when": "18/11/2021 01:30:00",
-    "visiting": "Milwaukee Bucks",
-    "hosting": "Los Angeles Lakers"
-  },
-  {
-    "when": "19/11/2021 02:00:00",
-    "visiting": "Memphis Grizzlies",
-    "hosting": "Los Angeles Clippers"
-  },
-  {
-    "when": "20/11/2021 01:30:00",
-    "visiting": "Boston Celtics",
-    "hosting": "Los Angeles Lakers"
-  },
-  {
-    "when": "20/11/2021 23:00:00",
-    "visiting": "New York Knicks",
-    "hosting": "Houston Rockets"
-  },
-  {
-    "when": "21/11/2021 21:30:00",
-    "visiting": "Los Angeles Clippers",
-    "hosting": "Dallas Mavericks"
-  },
-  {
-    "when": "23/11/2021 01:00:00",
-    "hosting": "Cleveland Cavaliers",
-    "visiting": "Brooklyn Nets"
-  },
-  {
-    "when": "24/11/2021 01:30:00",
-    "hosting": "New York Knicks",
-    "visiting": "Los Angeles Lakers"
-  },
-  {
-    "when": "25/11/2021 01:00:00",
     "hosting": "Indiana Pacers",
-    "visiting": "Los Angeles Lakers"
+    "visiting": "New York Knicks",
+    "when": "16/11/2021 01:30:00"
   },
   {
-    "when": "27/11/2021 02:00:00",
-    "hosting": "Memphis Grizzlies",
-    "visiting": "Atlanta Hawks"
+    "hosting": "Golden State Warriors",
+    "visiting": "Brooklyn Nets",
+    "when": "17/11/2021 01:30:00"
   },
   {
-    "when": "28/11/2021 00:00:00",
-    "hosting": "Philadelphia 76ers",
-    "visiting": "Minnesota Timberwolves"
+    "hosting": "Los Angeles Lakers",
+    "visiting": "Milwaukee Bucks",
+    "when": "18/11/2021 01:30:00"
   },
   {
-    "when": "28/11/2021 21:30:00",
     "hosting": "Los Angeles Clippers",
-    "visiting": "Golden State Warriors"
+    "visiting": "Memphis Grizzlies",
+    "when": "19/11/2021 02:00:00"
+  },
+  {
+    "hosting": "Los Angeles Lakers",
+    "visiting": "Boston Celtics",
+    "when": "20/11/2021 01:30:00"
+  },
+  {
+    "hosting": "Houston Rockets",
+    "visiting": "New York Knicks",
+    "when": "20/11/2021 23:00:00"
+  },
+  {
+    "hosting": "Dallas Mavericks",
+    "visiting": "Los Angeles Clippers",
+    "when": "21/11/2021 21:30:00"
+  },
+  {
+    "hosting": "Cleveland Cavaliers",
+    "visiting": "Brooklyn Nets",
+    "when": "23/11/2021 01:00:00"
+  },
+  {
+    "hosting": "New York Knicks",
+    "visiting": "Los Angeles Lakers",
+    "when": "24/11/2021 01:30:00"
+  },
+  {
+    "hosting": "Indiana Pacers",
+    "visiting": "Los Angeles Lakers",
+    "when": "25/11/2021 01:00:00"
+  },
+  {
+    "hosting": "Memphis Grizzlies",
+    "visiting": "Atlanta Hawks",
+    "when": "27/11/2021 02:00:00"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Minnesota Timberwolves",
+    "when": "28/11/2021 00:00:00"
+  },
+  {
+    "hosting": "Los Angeles Clippers",
+    "visiting": "Golden State Warriors",
+    "when": "28/11/2021 21:30:00"
+  },
+  {
+    "hosting": "Miami Heat",
+    "visiting": "Denver Nuggets",
+    "when": "30/11/2021 01:30:00"
+  },
+  {
+    "hosting": "Brooklyn Nets",
+    "visiting": "New York Knicks",
+    "when": "01/12/2021 01:30:00"
+  },
+  {
+    "hosting": "Milwaukee Bucks",
+    "visiting": "Charlotte Hornets",
+    "when": "02/12/2021 02:00:00"
+  },
+  {
+    "hosting": "New York Knicks",
+    "visiting": "Chicago Bulls",
+    "when": "03/12/2021 01:30:00"
+  },
+  {
+    "hosting": "Indiana Pacers",
+    "visiting": "Miami Heat",
+    "when": "04/12/2021 01:00:00"
+  },
+  {
+    "hosting": "New York Knicks",
+    "visiting": "Denver Nuggets",
+    "when": "04/12/2021 19:00:00"
+  },
+  {
+    "hosting": "Cleveland Cavaliers",
+    "visiting": "Utah Jazz",
+    "when": "05/12/2021 21:30:00"
   }
 ]
