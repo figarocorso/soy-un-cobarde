@@ -9,7 +9,7 @@ from game import Game
 URL = "https://www.movistarplus.es/nba/horarios"
 
 
-FILE = f"{pathlib.Path(__file__).parent.absolute()}/../schedule.json"
+FILE = f"{pathlib.Path(__file__).parent.absolute()}/../games/schedule.json"
 
 
 class ScheduleBuilder:
@@ -31,7 +31,9 @@ class ScheduleBuilder:
             json.dump([game.info for game in self.games], games_file, indent=2)
 
     def retrieve_html_page(self):
-        self.html = requests.get(URL).content
+        response = requests.get(URL)
+        response.raise_for_status()
+        self.html = response.content
 
     def add_html_games(self):
         if not self.html:
