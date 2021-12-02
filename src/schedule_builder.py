@@ -1,3 +1,4 @@
+from datetime import datetime
 import pathlib
 import json
 
@@ -22,9 +23,12 @@ class ScheduleBuilder:
         with open(FILE, "r") as games_file:
             json_games = json.load(games_file)
 
-        for game in json_games:
-            self.games.append(Game(game))
-
+        now = datetime.now().replace(tzinfo=datetime.now().astimezone().tzinfo)
+        for json_game in json_games:
+            game = Game(json_game)
+            if game.schedule > now:
+                break
+            self.games.append(game)
 
     def save_games_file(self):
         with open(FILE, "w") as games_file:

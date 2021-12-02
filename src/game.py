@@ -2,7 +2,7 @@ import unittest
 from datetime import datetime, timezone
 
 
-WHEN_FORMAT = "%d/%m/%Y %H:%M:%S"
+SCHEDULE_FORMAT = "%d/%m/%Y %H:%M"
 
 
 class Game:
@@ -29,17 +29,17 @@ class Game:
         return {
             "hosting": self.hosting,
             "visiting": self.visiting,
-            "iso": self.iso_when,
+            "iso": self.iso_schedule,
         }
 
     @property
-    def iso_when(self):
-        return self.schedule.replace(tzinfo=datetime.now().astimezone().tzinfo).isoformat()
+    def iso_schedule(self):
+        return self.schedule.isoformat()
 
     def get_info_from_dict(self):
         self.hosting = self.game_source.get("hosting", "")
         self.visiting = self.game_source.get("visiting", "")
-        self.schedule = datetime.strptime(self.game_source.get("when", None), WHEN_FORMAT)
+        self.schedule = datetime.fromisoformat(self.game_source.get("iso", ""))
 
     def get_info_from_li(self):
         self.add_schedule()
@@ -48,9 +48,9 @@ class Game:
     def add_schedule(self):
         day_month = self.game_source.find("span", {"class": "week"}).contents[0]
         time = self.game_source.find("span", {"class": "hour"}).contents[0].replace("h", "")
-        data = f"{day_month}/{datetime.today().year} {time}"
-        pattern = "%d/%m/%Y %H:%M"
-        self.schedule = datetime.strptime(data, pattern)
+
+        dt = datetime.strptime(f"{day_month}/{datetime.today().year} {time}", SCHEDULE_FORMAT)
+        self.schedule = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
 
     def add_teams(self):
         teams = self.game_source.find("div", {"class": "title-team"}).find_all(attrs={"itemprop": "name"})
