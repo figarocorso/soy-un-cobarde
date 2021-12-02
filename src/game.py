@@ -1,5 +1,5 @@
 import unittest
-from datetime import datetime
+from datetime import datetime, timezone
 
 
 WHEN_FORMAT = "%d/%m/%Y %H:%M:%S"
@@ -29,12 +29,12 @@ class Game:
         return {
             "hosting": self.hosting,
             "visiting": self.visiting,
-            "when": self.pretty_when,
+            "iso": self.iso_when,
         }
 
     @property
-    def pretty_when(self):
-        return self.schedule.strftime(WHEN_FORMAT)
+    def iso_when(self):
+        return self.schedule.replace(tzinfo=datetime.now().astimezone().tzinfo).isoformat()
 
     def get_info_from_dict(self):
         self.hosting = self.game_source.get("hosting", "")
