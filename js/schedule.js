@@ -11,8 +11,6 @@ $( document ).ready(function() {
             if (gameDate <= lowDate) {
                 return;
             }
-            console.log(gameDate);
-            console.log(gameDate.getMonth());
 
             var when = gameDate.getDate() + "/" + (gameDate.getMonth() + 1);
             if (gameDate >= currentDate) {
