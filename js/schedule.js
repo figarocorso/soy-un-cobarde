@@ -20,8 +20,8 @@ $( document ).ready(function() {
             }
 
             row =  "<div class='d-flex bg-gradient mb-1 bd-highlight " + colorClass + "'>";
-            row +=     "<div class='w-25 p-3 fs-5'><span class='float-end'>" + when + "</span></div>";
-            row +=     "<div class='w-75 p-3 fs-5'>" + game.visiting + " @ " + game.hosting + "</div>";
+            row +=     "<div style='min-width:120px;' class='w-25 p-1'><span class='float-end'>" + when + "</span></div>";
+            row +=     "<div class='w-75 p-1'>" + game.visiting + " @ " + game.hosting + "</div>";
             row += "</div>";
             items.push(row);
         });
