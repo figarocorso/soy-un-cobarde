@@ -1,3 +1,5 @@
+[![Update games](https://github.com/figarocorso/soy-un-cobarde/actions/workflows/update_games.yaml/badge.svg?branch=gh-pages)](https://github.com/figarocorso/soy-un-cobarde/actions/workflows/update_games.yaml)
+
 Puedes ver la web aquí: [Anoche dormí: soy un cobarde](https://migueljulian.com/soy-un-cobarde/)
 
 ## ¿Qué partidos han retransmitido en Movistar NBA?
