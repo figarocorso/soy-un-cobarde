@@ -26,3 +26,5 @@ jobs:
           
       - name: Push changes
         uses: actions-x/commit@v2
+        with:
+          message: Games automatically updated using GitHub Actions
