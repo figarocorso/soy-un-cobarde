@@ -1,0 +1,28 @@
+name: Update games
+
+on:
+  schedule:
+     - cron: "7 15 * * *" 
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo checkout
+        uses: actions/checkout@v2
+
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v2
+        with:
+          path: "src/requirements.txt"
+
+      - name: Run script
+        run: |
+          cd src
+          python build_schedule_for_web.py
+          
+      - name: Push changes
+        uses: actions-x/commit@v2
