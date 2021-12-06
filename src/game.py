@@ -1,7 +1,7 @@
 import pytz
 
 import unittest
-from datetime import datetime, timezone
+from datetime import datetime
 
 
 SCHEDULE_FORMAT = "%d/%m/%Y %H:%M"

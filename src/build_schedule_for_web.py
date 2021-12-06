@@ -1,8 +1,8 @@
-from schedule_builder import ScheduleBuilder
+from json_games_builder import JsonGamesBuilder
 
 
 def main():
-    builder = ScheduleBuilder()
+    builder = JsonGamesBuilder()
     builder.add_html_games()
     builder.save_hitorical_games_file()
     builder.save_recent_games_file()

@@ -8,14 +8,15 @@ from bs4 import BeautifulSoup
 
 from game import Game
 
-URL = "https://www.movistarplus.es/nba/horarios"
+PAST_GAMES = 6
 
+URL = "https://www.movistarplus.es/nba/horarios"
 
 HISTORICAL_GAMES_FILE = f"{pathlib.Path(__file__).parent.absolute()}/../games/historical.json"
 RECENT_GAMES_FILE = f"{pathlib.Path(__file__).parent.absolute()}/../games/schedule.json"
 
 
-class ScheduleBuilder:
+class JsonGamesBuilder:
     def __init__(self):
         self.now = pytz.timezone('Europe/Madrid').localize(datetime.now())
         self.games = []
@@ -38,7 +39,7 @@ class ScheduleBuilder:
 
     def save_recent_games_file(self):
         recent_games = [game for game in self.games
-                        if game.schedule >= (self.now - timedelta(days=4))]
+                        if game.schedule >= (self.now - timedelta(days=PAST_GAMES))]
 
         with open(RECENT_GAMES_FILE, "w") as games_file:
             json.dump([game.info for game in recent_games], games_file, indent=2)
