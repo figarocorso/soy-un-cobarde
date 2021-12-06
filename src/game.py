@@ -1,3 +1,5 @@
+import pytz
+
 import unittest
 from datetime import datetime, timezone
 
@@ -50,7 +52,7 @@ class Game:
         time = self.game_source.find("span", {"class": "hour"}).contents[0].replace("h", "")
 
         dt = datetime.strptime(f"{day_month}/{datetime.today().year} {time}", SCHEDULE_FORMAT)
-        self.schedule = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
+        self.schedule = pytz.timezone('Europe/Madrid').localize(dt)
 
     def add_teams(self):
         teams = self.game_source.find("div", {"class": "title-team"}).find_all(attrs={"itemprop": "name"})
