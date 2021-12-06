@@ -1,6 +1,7 @@
 $( document ).ready(function() {
     var getUrl = window.location;
-    var baseUrl = getUrl .protocol + "//" + getUrl.host + "/" + getUrl.pathname.split('/')[1];
+    var baseUrl = getUrl .protocol + "//" + getUrl.host;
+    console.log(baseUrl);
     var lowDate = new Date();
     lowDate.setDate(lowDate.getDate() - 4);
     var currentDate = new Date();
