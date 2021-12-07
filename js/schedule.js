@@ -20,12 +20,23 @@ $( document ).ready(function() {
                 colorClass = "bg-primary text-white"
             }
 
-            row =  "<div class='d-flex bg-gradient mb-1 bd-highlight " + colorClass + "'>";
+            var visiting = game.visiting.split(" ");
+            var visitingName = visiting.pop();
+            var visitingCity = visiting.join(" ");
+
+            var hosting = game.hosting.split(" ");
+            var hostingName = hosting.pop();
+            var hostingCity = hosting.join(" ");
+
+            row =  "<div class='d-flex bg-gradient mb-1 bd-highlight ps-3 py-2 align-middle " + colorClass + "'>";
             row +=     "<div style='min-width:120px;' class='w-25 p-1'><span class='float-end'>" + when + "</span></div>";
-            row +=     "<div class='w-75 p-1'>" + game.visiting + " @ " + game.hosting + "</div>";
+            row +=     "<div class='ps-3 p-1 d-flex justify-content-start'><span class='d-none d-md-block px-1'>" + visitingCity + "</span><span class='fw-bold'>" + visitingName + "</span></div>";
+            row +=     "<div class='p-1'>@</div>";
+            row +=     "<div class='p-1 d-flex justify-content-start'><span class='d-none d-md-block px-1'>" + hostingCity + "</span><span class='fw-bold'>" + hostingName + "</span></div>";
             row += "</div>";
             items.push(row);
         });
+
         $( "#games-list" ).append(items.join(''));
     });
 });
