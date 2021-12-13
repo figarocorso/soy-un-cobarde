@@ -173,5 +173,60 @@
     "hosting": "Chicago Bulls",
     "visiting": "Los Angeles Lakers",
     "iso": "2021-12-19T21:30:00+01:00"
+  },
+  {
+    "hosting": "Boston Celtics",
+    "visiting": "Philadelphia 76ers",
+    "iso": "2021-12-21T01:30:00+01:00"
+  },
+  {
+    "hosting": "Dallas Mavericks",
+    "visiting": "Minnesota Timberwolves",
+    "iso": "2021-12-22T02:30:00+01:00"
+  },
+  {
+    "hosting": "Boston Celtics",
+    "visiting": "Cleveland Cavaliers",
+    "iso": "2021-12-23T01:30:00+01:00"
+  },
+  {
+    "hosting": "Dallas Mavericks",
+    "visiting": "Milwaukee Bucks",
+    "iso": "2021-12-24T02:30:00+01:00"
+  },
+  {
+    "hosting": "Phoenix Suns",
+    "visiting": "Golden State Warriors",
+    "iso": "2021-12-25T23:00:00+01:00"
+  },
+  {
+    "hosting": "Los Angeles Lakers",
+    "visiting": "Brooklyn Nets",
+    "iso": "2021-12-26T02:00:00+01:00"
+  },
+  {
+    "hosting": "Miami Heat",
+    "visiting": "Orlando Magic",
+    "iso": "2021-12-26T21:30:00+01:00"
+  },
+  {
+    "hosting": "Atlanta Hawks",
+    "visiting": "Chicago Bulls",
+    "iso": "2021-12-28T01:30:00+01:00"
+  },
+  {
+    "hosting": "Houston Rockets",
+    "visiting": "Los Angeles Lakers",
+    "iso": "2021-12-29T02:00:00+01:00"
+  },
+  {
+    "hosting": "Chicago Bulls",
+    "visiting": "Atlanta Hawks",
+    "iso": "2021-12-30T02:00:00+01:00"
+  },
+  {
+    "hosting": "Brooklyn Nets",
+    "visiting": "Philadelphia 76ers",
+    "iso": "2021-12-31T01:00:00+01:00"
   }
 ]
