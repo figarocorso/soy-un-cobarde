@@ -1,10 +1,5 @@
 [
   {
-    "hosting": "Dallas Mavericks",
-    "visiting": "Brooklyn Nets",
-    "iso": "2021-12-08T01:30:00+01:00"
-  },
-  {
     "hosting": "Memphis Grizzlies",
     "visiting": "Dallas Mavericks",
     "iso": "2021-12-09T02:00:00+01:00"
@@ -45,9 +40,9 @@
     "iso": "2021-12-16T01:00:00+01:00"
   },
   {
-    "hosting": "Toronto Raptors",
-    "visiting": "Chicago Bulls",
-    "iso": "2021-12-17T01:30:00+01:00"
+    "hosting": "Indiana Pacers",
+    "visiting": "Detroit Pistons",
+    "iso": "2021-12-17T01:00:00+01:00"
   },
   {
     "hosting": "Atlanta Hawks",
