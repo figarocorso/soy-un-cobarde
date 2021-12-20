@@ -228,5 +228,15 @@
     "hosting": "Brooklyn Nets",
     "visiting": "Philadelphia 76ers",
     "iso": "2021-12-31T01:00:00+01:00"
+  },
+  {
+    "hosting": "Milwaukee Bucks",
+    "visiting": "New Orleans Pelicans",
+    "iso": "2021-01-02T00:30:00+01:00"
+  },
+  {
+    "hosting": "Toronto Raptors",
+    "visiting": "New York Knicks",
+    "iso": "2021-01-02T21:30:00+01:00"
   }
 ]
