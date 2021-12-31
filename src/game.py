@@ -50,9 +50,15 @@ class Game:
     def add_schedule(self):
         day_month = self.game_source.find("span", {"class": "week"}).contents[0]
         time = self.game_source.find("span", {"class": "hour"}).contents[0].replace("h", "")
+        year = self._get_game_year_from_li_info(day_month)
 
-        dt = datetime.strptime(f"{day_month}/{datetime.today().year} {time}", SCHEDULE_FORMAT)
+        dt = datetime.strptime(f"{day_month}/{year} {time}", SCHEDULE_FORMAT)
         self.schedule = pytz.timezone('Europe/Madrid').localize(dt)
+
+    def _get_game_year_from_li_info(self, day_month):
+        today = datetime.today()
+        day, month = day_month.split("/")
+        return today.year + 1 if month == "01" and today.month == 12 else today.year
 
     def add_teams(self):
         teams = self.game_source.find("div", {"class": "title-team"}).find_all(attrs={"itemprop": "name"})
