@@ -28,11 +28,13 @@ $( document ).ready(function() {
             var hostingName = hosting.pop();
             var hostingCity = hosting.join(" ");
 
-            row =  "<div class='d-flex bg-gradient mb-1 bd-highlight ps-3 py-2 align-middle " + colorClass + "'>";
-            row +=     "<div style='min-width:120px;' class='w-25 p-1'><span class='float-end'>" + when + "</span></div>";
-            row +=     "<div class='ps-3 p-1 d-flex justify-content-start'><span class='d-none d-md-block px-1'>" + visitingCity + "</span><span class='fw-bold'>" + visitingName + "</span></div>";
-            row +=     "<div class='p-1'>@</div>";
-            row +=     "<div class='p-1 d-flex justify-content-start'><span class='d-none d-md-block px-1'>" + hostingCity + "</span><span class='fw-bold'>" + hostingName + "</span></div>";
+            row =  "<div class='d-flex bg-gradient bd-highlight align-middle mb-1 ps-3 " + colorClass + "'>";
+            row +=     "<div class='w-25'><span class='py-3 px-1 float-end'>" + when + "</span></div>";
+            row +=     "<img class='d-none d-md-block mx-1' height='60px' src='/images/teams/" + visitingName.toLowerCase() + ".png' />";
+            row +=     "<span class='d-none d-md-block py-3 px-1'>" + visitingCity + "</span><span class='fw-bold py-3'>" + visitingName + "</span>";
+            row +=     "<div class='px-2 py-3'>@</div>";
+            row +=     "<span class='d-none d-md-block px-1 py-3'>" + hostingCity + "</span><span class='py-3 fw-bold'>" + hostingName + "</span>";
+            row +=     "<img class='d-none d-md-block mx-1' height='60px' src='/images/teams/" + hostingName.toLowerCase() + ".png' />";
             row += "</div>";
             items.push(row);
         });
