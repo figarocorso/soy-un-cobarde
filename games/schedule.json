@@ -1,10 +1,5 @@
 [
   {
-    "hosting": "New Orleans Pelicans",
-    "visiting": "Phoenix Suns",
-    "iso": "2022-01-05T02:00:00+01:00"
-  },
-  {
     "hosting": "Dallas Mavericks",
     "visiting": "Golden State Warriors",
     "iso": "2022-01-06T01:30:00+01:00"
@@ -60,8 +55,8 @@
     "iso": "2022-01-16T00:00:00+01:00"
   },
   {
-    "hosting": "Sacramento Kings",
-    "visiting": "Houston Rockets",
-    "iso": "2022-01-17T00:00:00+01:00"
+    "hosting": "Detroit Pistons",
+    "visiting": "Phoenix Suns",
+    "iso": "2022-01-16T19:00:00+01:00"
   }
 ]
