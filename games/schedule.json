@@ -1,10 +1,5 @@
 [
   {
-    "hosting": "San Antonio Spurs",
-    "visiting": "Brooklyn Nets",
-    "iso": "2022-01-22T02:30:00+01:00"
-  },
-  {
     "hosting": "Milwaukee Bucks",
     "visiting": "Sacramento Kings",
     "iso": "2022-01-23T01:00:00+01:00"
@@ -70,9 +65,9 @@
     "iso": "2022-02-04T01:30:00+01:00"
   },
   {
-    "hosting": "Dallas Mavericks",
-    "visiting": "Philadelphia 76ers",
-    "iso": "2022-02-05T02:30:00+01:00"
+    "hosting": "Charlotte Hornets",
+    "visiting": "Cleveland Cavaliers",
+    "iso": "2022-02-05T01:00:00+01:00"
   },
   {
     "hosting": "Orlando Magic",
