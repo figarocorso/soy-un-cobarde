@@ -1,10 +1,5 @@
 [
   {
-    "hosting": "Cleveland Cavaliers",
-    "visiting": "New York Knicks",
-    "iso": "2022-01-25T01:00:00+01:00"
-  },
-  {
     "hosting": "Brooklyn Nets",
     "visiting": "Los Angeles Lakers",
     "iso": "2022-01-26T01:30:00+01:00"
@@ -68,5 +63,40 @@
     "hosting": "Denver Nuggets",
     "visiting": "Brooklyn Nets",
     "iso": "2022-02-06T21:30:00+01:00"
+  },
+  {
+    "hosting": "Washington Wizards",
+    "visiting": "Miami Heat",
+    "iso": "2022-02-08T01:00:00+01:00"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Phoenix Suns",
+    "iso": "2022-02-09T01:00:00+01:00"
+  },
+  {
+    "hosting": "Charlotte Hornets",
+    "visiting": "Chicago Bulls",
+    "iso": "2022-02-10T01:30:00+01:00"
+  },
+  {
+    "hosting": "Dallas Mavericks",
+    "visiting": "Los Angeles Clippers",
+    "iso": "2022-02-11T02:30:00+01:00"
+  },
+  {
+    "hosting": "Boston Celtics",
+    "visiting": "Denver Nuggets",
+    "iso": "2022-02-12T01:30:00+01:00"
+  },
+  {
+    "hosting": "Portland Trail Blazers",
+    "visiting": "New York Knicks",
+    "iso": "2022-02-12T23:00:00+01:00"
+  },
+  {
+    "hosting": "Boston Celtics",
+    "visiting": "Atlanta Hawks",
+    "iso": "2022-02-13T20:00:00+01:00"
   }
 ]
