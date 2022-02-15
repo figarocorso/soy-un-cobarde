@@ -463,5 +463,25 @@
     "hosting": "Brooklyn Nets",
     "visiting": "Washington Wizards",
     "iso": "2022-02-18T01:30:00+01:00"
+  },
+  {
+    "hosting": "Brooklyn Nets",
+    "visiting": "Boston Celtics",
+    "iso": "2022-02-25T01:30:00+01:00"
+  },
+  {
+    "hosting": "Phoenix Suns",
+    "visiting": "New Orleans Pelicans",
+    "iso": "2022-02-26T03:00:00+01:00"
+  },
+  {
+    "hosting": "Detroit Pistons",
+    "visiting": "Boston Celtics",
+    "iso": "2022-02-26T18:00:00+01:00"
+  },
+  {
+    "hosting": "Phoenix Suns",
+    "visiting": "Utah Jazz",
+    "iso": "2022-02-27T21:30:00+01:00"
   }
 ]
