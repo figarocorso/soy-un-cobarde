@@ -53,5 +53,40 @@
     "hosting": "Boston Celtics",
     "visiting": "Dallas Mavericks",
     "iso": "2022-03-13T20:30:00+01:00"
+  },
+  {
+    "hosting": "Cleveland Cavaliers",
+    "visiting": "Los Angeles Clippers",
+    "iso": "2022-03-15T00:00:00+01:00"
+  },
+  {
+    "hosting": "Orlando Magic",
+    "visiting": "Brooklyn Nets",
+    "iso": "2022-03-16T00:00:00+01:00"
+  },
+  {
+    "hosting": "Brooklyn Nets",
+    "visiting": "Dallas Mavericks",
+    "iso": "2022-03-17T00:30:00+01:00"
+  },
+  {
+    "hosting": "Orlando Magic",
+    "visiting": "Detroit Pistons",
+    "iso": "2022-03-18T00:00:00+01:00"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Dallas Mavericks",
+    "iso": "2022-03-19T00:00:00+01:00"
+  },
+  {
+    "hosting": "Minnesota Timberwolves",
+    "visiting": "Milwaukee Bucks",
+    "iso": "2022-03-19T22:00:00+01:00"
+  },
+  {
+    "hosting": "Denver Nuggets",
+    "visiting": "Boston Celtics",
+    "iso": "2022-03-21T01:00:00+01:00"
   }
 ]
