@@ -628,5 +628,40 @@
     "hosting": "Phoenix Suns",
     "visiting": "Philadelphia 76ers",
     "iso": "2022-03-28T00:00:00+02:00"
+  },
+  {
+    "hosting": "Memphis Grizzlies",
+    "visiting": "Golden State Warriors",
+    "iso": "2022-03-29T02:00:00+02:00"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Milwaukee Bucks",
+    "iso": "2022-03-30T01:00:00+02:00"
+  },
+  {
+    "hosting": "Cleveland Cavaliers",
+    "visiting": "Dallas Mavericks",
+    "iso": "2022-03-31T01:00:00+02:00"
+  },
+  {
+    "hosting": "Brooklyn Nets",
+    "visiting": "Milwaukee Bucks",
+    "iso": "2022-04-01T01:30:00+02:00"
+  },
+  {
+    "hosting": "Denver Nuggets",
+    "visiting": "Minnesota Timberwolves",
+    "iso": "2022-04-02T03:00:00+02:00"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Charlotte Hornets",
+    "iso": "2022-04-02T18:30:00+02:00"
+  },
+  {
+    "hosting": "Los Angeles Lakers",
+    "visiting": "Denver Nuggets",
+    "iso": "2022-04-03T21:30:00+02:00"
   }
 ]
