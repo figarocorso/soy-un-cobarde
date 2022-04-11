@@ -688,5 +688,25 @@
     "hosting": "San Antonio Spurs",
     "visiting": "Golden State Warriors",
     "iso": "2022-04-10T02:30:00+02:00"
+  },
+  {
+    "hosting": "Brooklyn Nets",
+    "visiting": "Cleveland Cavaliers",
+    "iso": "2022-04-13T01:00:00+02:00"
+  },
+  {
+    "hosting": "Minnesota Timberwolves",
+    "visiting": "Los Angeles Clippers",
+    "iso": "2022-04-13T03:30:00+02:00"
+  },
+  {
+    "hosting": "Atlanta Hawks",
+    "visiting": "Charlotte Hornets",
+    "iso": "2022-04-14T01:00:00+02:00"
+  },
+  {
+    "hosting": "New Orleans Pelicans",
+    "visiting": "San Antonio Spurs",
+    "iso": "2022-04-14T03:30:00+02:00"
   }
 ]
