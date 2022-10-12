@@ -1,42 +1,37 @@
 [
   {
-    "hosting": "Atlanta Hawks",
-    "visiting": "Cleveland Cavaliers",
-    "iso": "2022-04-16T01:30:00+02:00"
-  },
-  {
-    "hosting": "New Orleans Pelicans",
-    "visiting": "Los Angeles Clippers",
-    "iso": "2022-04-16T04:00:00+02:00"
-  },
-  {
-    "hosting": "Memphis Grizzlies",
-    "visiting": "Minnesota Timberwolves",
-    "iso": "2022-04-16T21:30:00+02:00"
-  },
-  {
     "hosting": "Boston Celtics",
-    "visiting": "Brooklyn Nets",
-    "iso": "2022-04-21T01:00:00+02:00"
+    "visiting": "Philadelphia 76ers",
+    "iso": "2022-10-19T01:30:00+02:00"
   },
   {
-    "hosting": "Utah Jazz",
-    "visiting": "Dallas Mavericks",
-    "iso": "2022-04-22T03:00:00+02:00"
+    "hosting": "Golden State Warriors",
+    "visiting": "Los Angeles Lakers",
+    "iso": "2022-10-19T04:00:00+02:00"
   },
   {
-    "hosting": "Atlanta Hawks",
-    "visiting": "Miami Heat",
-    "iso": "2022-04-23T01:00:00+02:00"
+    "hosting": "Toronto Raptors",
+    "visiting": "Cleveland Cavaliers",
+    "iso": "2022-10-20T01:30:00+02:00"
   },
   {
-    "hosting": "Utah Jazz",
-    "visiting": "Dallas Mavericks",
-    "iso": "2022-04-23T22:30:00+02:00"
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Milwaukee Bucks",
+    "iso": "2022-10-21T01:30:00+02:00"
   },
   {
-    "hosting": "Denver Nuggets",
-    "visiting": "Golden State Warriors",
-    "iso": "2022-04-24T21:30:00+02:00"
+    "hosting": "Charlotte Hornets",
+    "visiting": "New Orleans Pelicans",
+    "iso": "2022-10-22T01:00:00+02:00"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "San Antonio Spurs",
+    "iso": "2022-10-23T00:00:00+02:00"
+  },
+  {
+    "hosting": "Los Angeles Lakers",
+    "visiting": "Portland Trail Blazers",
+    "iso": "2022-10-23T21:30:00+02:00"
   }
 ]
