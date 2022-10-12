@@ -25,6 +25,8 @@ jobs:
           python build_schedule_for_web.py
           
       - name: Push changes
-        uses: actions-x/commit@v2.9
+        uses: github-actions-x/commit@v2.9
         with:
-          message: Games automatically updated using GitHub Actions
+          push-branch: main
+          rebase: 'true'
+          commit-message: 'Games automatically updated using GitHub Actions'
