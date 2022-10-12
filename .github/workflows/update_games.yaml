@@ -31,3 +31,6 @@ jobs:
           push-branch: main
           rebase: 'true'
           commit-message: 'Games automatically updated using GitHub Actions'
+          name: Miguel Julián
+          email: figarocorso@gmail.com
+
