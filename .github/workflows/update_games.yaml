@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Repo checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Install Python dependencies
         uses: py-actions/py-dependency-install@v2
@@ -25,6 +25,9 @@ jobs:
           python build_schedule_for_web.py
           
       - name: Push changes
-        uses: actions-x/commit@v2
-        with:
-          message: Games automatically updated using GitHub Actions
+        run: |
+          git config user.name Miguel Julián
+          git config user.email figarocorso@gmail.com
+          git add .
+          git commit -m "Games automatically updated using GitHub Actions" || exit 0
+          git push
