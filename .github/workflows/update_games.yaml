@@ -25,13 +25,11 @@ jobs:
           python build_schedule_for_web.py
           
       - name: Push changes
-        uses: github-actions-x/commit@v2.9
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: main
-          rebase: 'true'
-          force-add: 'true'
-          commit-message: 'Games automatically updated using GitHub Actions'
-          name: Miguel Julián
-          email: figarocorso@gmail.com
-
+      - uses: actions/checkout@v3
+      - run: |
+          pwd
+          git config user.name Miguel Julián
+          git config user.email figarocorso@gmail.com
+          git add .
+          git commit -m "Games automatically updated using GitHub Actions"
+          git push
