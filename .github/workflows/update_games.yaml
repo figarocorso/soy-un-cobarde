@@ -26,7 +26,7 @@ jobs:
           
       - name: Push changes
         run: |
-          pwd
+          date > generated.txt
           git config user.name Miguel Julián
           git config user.email figarocorso@gmail.com
           git add .
