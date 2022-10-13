@@ -25,8 +25,7 @@ jobs:
           python build_schedule_for_web.py
           
       - name: Push changes
-      - uses: actions/checkout@v3
-      - run: |
+        run: |
           pwd
           git config user.name Miguel Julián
           git config user.email figarocorso@gmail.com
