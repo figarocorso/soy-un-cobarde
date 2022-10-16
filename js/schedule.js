@@ -28,8 +28,8 @@ $( document ).ready(function() {
             var hostingName = hosting.pop();
             var hostingCity = hosting.join(" ");
 
-            row =  "<div class='d-flex bg-gradient bd-highlight align-middle mb-1 ps-3 " + colorClass + "'>";
-            row +=     "<div class='w-25'><span class='py-3 px-1 float-end'>" + when + "</span></div>";
+            row =  "<div class='d-flex bg-gradient bd-highlight align-middle mb-1 " + colorClass + "'>";
+            row +=     "<div class='w-30'><span class='mx-3 py-3 px-1 float-end'>" + when + "</span></div>";
             row +=     "<img class='d-none d-md-block mx-1' height='60px' src='/images/teams/" + visitingName.toLowerCase() + ".png' />";
             row +=     "<span class='d-none d-md-block py-3 px-1'>" + visitingCity + "</span><span class='fw-bold py-3'>" + visitingName + "</span>";
             row +=     "<div class='px-2 py-3'>@</div>";
