@@ -20,6 +20,9 @@ $( document ).ready(function() {
                 colorClass = "bg-primary text-white"
             }
 
+            var borderClass = " border "
+            borderClass += game.channel == "Movistar Plus Deportes" ? "border-danger " : "border-success "
+
             var visiting = game.visiting.split(" ");
             var visitingName = visiting.pop();
             var visitingCity = visiting.join(" ");
@@ -28,7 +31,7 @@ $( document ).ready(function() {
             var hostingName = hosting.pop();
             var hostingCity = hosting.join(" ");
 
-            row =  "<div class='d-flex bg-gradient bd-highlight align-middle mb-1 " + colorClass + "'>";
+            row =  "<div class='d-flex bg-gradient bd-highlight align-middle mb-1 " + colorClass + borderClass + "'>";
             row +=     "<div class='w-30'><span class='mx-3 py-3 px-1 float-end'>" + when + "</span></div>";
             row +=     "<img class='d-none d-md-block mx-1' height='60px' src='/images/teams/" + visitingName.toLowerCase() + ".png' />";
             row +=     "<span class='d-none d-md-block py-3 px-1'>" + visitingCity + "</span><span class='fw-bold py-3'>" + visitingName + "</span>";
