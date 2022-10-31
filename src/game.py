@@ -12,6 +12,7 @@ class Game:
         self.hosting = None
         self.visiting = None
         self.schedule = None
+        self.channel = None
 
         self.game_source = game_source
 
@@ -32,6 +33,7 @@ class Game:
             "hosting": self.hosting,
             "visiting": self.visiting,
             "iso": self.iso_schedule,
+            "channel": self.channel if self.channel else "",
         }
 
     @property
@@ -46,6 +48,7 @@ class Game:
     def get_info_from_li(self):
         self.add_schedule()
         self.add_teams()
+        self.add_channel()
 
     def add_schedule(self):
         day_month = self.game_source.find("span", {"class": "week"}).contents[0]
@@ -65,6 +68,17 @@ class Game:
         if teams:
             self.hosting = teams[0].contents[0]
             self.visiting = teams[1].contents[0]
+
+    def add_channel(self):
+        channel_url = self.game_source.find("ul", {"class": "channels"}).find("a").get("href", "")
+
+        self.channel = ""
+        if "m-plus-deportes" in channel_url:
+            self.channel = "Movistar Plus Deportes"
+        elif "m-plus-vamos" in channel_url:
+            self.channel = "Movistar Plus Vamos"
+        elif "m-plus-0" in channel_url:
+            self.channel = "Movistar Plus 0"
 
 
 class GameTest(unittest.TestCase):
