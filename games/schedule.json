@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Miami Heat",
-    "visiting": "Golden State Warriors",
-    "iso": "2022-11-02T00:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Cleveland Cavaliers",
     "visiting": "Boston Celtics",
     "iso": "2022-11-03T00:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Memphis Grizzlies",
     "visiting": "Boston Celtics",
     "iso": "2022-11-08T03:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Minnesota Timberwolves",
