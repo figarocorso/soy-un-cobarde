@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Orlando Magic",
-    "visiting": "Sacramento Kings",
-    "iso": "2022-11-05T22:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Los Angeles Lakers",
     "visiting": "Cleveland Cavaliers",
     "iso": "2022-11-06T21:30:00+01:00",
@@ -33,7 +27,7 @@
     "hosting": "Boston Celtics",
     "visiting": "Denver Nuggets",
     "iso": "2022-11-12T01:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Los Angeles Clippers",
