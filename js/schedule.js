@@ -1,11 +1,10 @@
 $( document ).ready(function() {
     var getUrl = window.location;
-    var baseUrl = getUrl .protocol + "//" + getUrl.host;
-    console.log(baseUrl);
+    var baseUrl = getUrl.href;
     var lowDate = new Date();
     lowDate.setDate(lowDate.getDate() - 4);
     var currentDate = new Date();
-    $.getJSON(baseUrl + "/games/schedule.json").then(function (data) {
+    $.getJSON(baseUrl + "games/schedule.json").then(function (data) {
         var items = []
         $.each( data, function( key, game ) {
             var gameDate = new Date(game.iso);
