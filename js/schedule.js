@@ -32,11 +32,11 @@ $( document ).ready(function() {
 
             row =  "<div class='d-flex bg-gradient bd-highlight align-middle mb-1 " + colorClass + borderClass + "'>";
             row +=     "<div class='w-30'><span class='mx-3 py-3 px-1 float-end'>" + when + "</span></div>";
-            row +=     "<img class='d-none d-md-block mx-1' height='60px' src='/images/teams/" + visitingName.toLowerCase() + ".png' />";
+            row +=     "<img class='d-none d-md-block mx-1' height='60px' src='" + baseUrl + "images/teams/" + visitingName.toLowerCase() + ".png' />";
             row +=     "<span class='d-none d-md-block py-3 px-1'>" + visitingCity + "</span><span class='fw-bold py-3'>" + visitingName + "</span>";
             row +=     "<div class='px-2 py-3'>@</div>";
             row +=     "<span class='d-none d-md-block px-1 py-3'>" + hostingCity + "</span><span class='py-3 fw-bold'>" + hostingName + "</span>";
-            row +=     "<img class='d-none d-md-block mx-1' height='60px' src='/images/teams/" + hostingName.toLowerCase() + ".png' />";
+            row +=     "<img class='d-none d-md-block mx-1' height='60px' src='" + baseUrl + "images/teams/" + hostingName.toLowerCase() + ".png' />";
             row += "</div>";
             items.push(row);
         });
