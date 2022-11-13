@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Los Angeles Lakers",
-    "visiting": "Cleveland Cavaliers",
-    "iso": "2022-11-06T21:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Memphis Grizzlies",
     "visiting": "Boston Celtics",
     "iso": "2022-11-08T03:00:00+01:00",
@@ -33,7 +27,7 @@
     "hosting": "Los Angeles Clippers",
     "visiting": "Brooklyn Nets",
     "iso": "2022-11-12T22:00:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "New York Knicks",
