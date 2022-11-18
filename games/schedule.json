@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Boston Celtics",
-    "visiting": "Denver Nuggets",
-    "iso": "2022-11-12T01:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Los Angeles Clippers",
     "visiting": "Brooklyn Nets",
     "iso": "2022-11-12T22:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Sacramento Kings",
     "visiting": "San Antonio Spurs",
     "iso": "2022-11-18T04:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Philadelphia 76ers",
