@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "New York Knicks",
-    "visiting": "Oklahoma City Thunder",
-    "iso": "2022-11-13T18:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Miami Heat",
     "visiting": "Phoenix Suns",
     "iso": "2022-11-15T01:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Atlanta Hawks",
     "visiting": "Toronto Raptors",
     "iso": "2022-11-20T00:00:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Phoenix Suns",
