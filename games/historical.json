@@ -1101,7 +1101,7 @@
     "hosting": "Phoenix Suns",
     "visiting": "New York Knicks",
     "iso": "2022-11-20T21:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Milwaukee Bucks",
@@ -1174,5 +1174,11 @@
     "visiting": "Dallas Mavericks",
     "iso": "2022-12-03T18:30:00+01:00",
     "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "New Orleans Pelicans",
+    "visiting": "Phoenix Suns",
+    "iso": "2022-12-04T21:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
   }
 ]
