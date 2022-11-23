@@ -10,7 +10,7 @@ La [página de horarios](https://www.movistarplus.es/nba/horarios) de Movistar N
 
 Admitámoslo, somos unos cobardes si estamos leyendo esto. Anoche dormimos. Miércoles por la mañana, no tenemos demasiado tiempo y nos queremos poner la retransmisión para escuchar a la panda del patio habitual. 
 
-* Abres Leage Pass
+* Abres League Pass
 * Hay doscientos mil partidos, porque claro, es miércoles
 * Yo quiero escuchar/ver los comentarios de Movistar
 * Pues nada, entras uno a uno a los partidos y miras si el idioma está disponible
