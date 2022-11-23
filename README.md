@@ -19,7 +19,7 @@ La alternativa: **Ser un cobarde**
 
 * Duermes bien por la noche
 * Te levantas, miras qué partido hicieron anoche
-* Abres el Leage Pass y te lo pones
+* Abres el League Pass y te lo pones
 
 ## Colaborar
 
