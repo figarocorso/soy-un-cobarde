@@ -1119,7 +1119,7 @@
     "hosting": "Boston Celtics",
     "visiting": "Dallas Mavericks",
     "iso": "2022-11-24T01:30:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Milwaukee Bucks",
@@ -1180,5 +1180,47 @@
     "visiting": "Phoenix Suns",
     "iso": "2022-12-04T21:30:00+01:00",
     "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Charlotte Hornets",
+    "visiting": "Los Angeles Clippers",
+    "iso": "2022-12-06T01:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Los Angeles Lakers",
+    "visiting": "Cleveland Cavaliers",
+    "iso": "2022-12-07T01:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Toronto Raptors",
+    "visiting": "Los Angeles Lakers",
+    "iso": "2022-12-08T01:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Miami Heat",
+    "visiting": "Los Angeles Clippers",
+    "iso": "2022-12-09T01:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "New Orleans Pelicans",
+    "visiting": "Phoenix Suns",
+    "iso": "2022-12-10T02:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Miami Heat",
+    "visiting": "San Antonio Spurs",
+    "iso": "2022-12-10T23:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "New Orleans Pelicans",
+    "visiting": "Phoenix Suns",
+    "iso": "2022-12-11T21:30:00+01:00",
+    "channel": "Movistar Plus Vamos"
   }
 ]
