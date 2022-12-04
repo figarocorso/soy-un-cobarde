@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Minnesota Timberwolves",
-    "visiting": "Golden State Warriors",
-    "iso": "2022-11-27T21:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Toronto Raptors",
     "visiting": "Cleveland Cavaliers",
     "iso": "2022-11-29T01:30:00+01:00",
@@ -39,13 +33,13 @@
     "hosting": "New York Knicks",
     "visiting": "Dallas Mavericks",
     "iso": "2022-12-03T18:30:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "New Orleans Pelicans",
     "visiting": "Denver Nuggets",
     "iso": "2022-12-04T21:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Charlotte Hornets",
