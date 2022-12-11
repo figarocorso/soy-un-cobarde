@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "New Orleans Pelicans",
-    "visiting": "Denver Nuggets",
-    "iso": "2022-12-04T21:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Charlotte Hornets",
     "visiting": "Los Angeles Clippers",
     "iso": "2022-12-06T01:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Miami Heat",
     "visiting": "San Antonio Spurs",
     "iso": "2022-12-10T23:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "New Orleans Pelicans",
