@@ -1275,7 +1275,7 @@
     "hosting": "Phoenix Suns",
     "visiting": "Washington Wizards",
     "iso": "2022-12-21T03:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Cleveland Cavaliers",
@@ -1371,6 +1371,18 @@
     "hosting": "Denver Nuggets",
     "visiting": "Cleveland Cavaliers",
     "iso": "2023-01-07T03:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "San Antonio Spurs",
+    "visiting": "Boston Celtics",
+    "iso": "2023-01-08T00:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Toronto Raptors",
+    "visiting": "Portland Trail Blazers",
+    "iso": "2023-01-08T21:30:00+01:00",
     "channel": "Movistar Plus Deportes"
   }
 ]
