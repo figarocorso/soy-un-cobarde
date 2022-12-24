@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Los Angeles Clippers",
-    "visiting": "Washington Wizards",
-    "iso": "2022-12-17T22:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Boston Celtics",
     "visiting": "Orlando Magic",
     "iso": "2022-12-18T21:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Philadelphia 76ers",
     "visiting": "Los Angeles Clippers",
     "iso": "2022-12-24T01:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Dallas Mavericks",
