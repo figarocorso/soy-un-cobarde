@@ -1,17 +1,5 @@
 [
   {
-    "hosting": "Dallas Mavericks",
-    "visiting": "Los Angeles Lakers",
-    "iso": "2022-12-25T20:30:00+01:00",
-    "channel": ""
-  },
-  {
-    "hosting": "Boston Celtics",
-    "visiting": "Milwaukee Bucks",
-    "iso": "2022-12-25T23:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Cleveland Cavaliers",
     "visiting": "Brooklyn Nets",
     "iso": "2022-12-27T01:00:00+01:00",
