@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Atlanta Hawks",
-    "visiting": "Brooklyn Nets",
-    "iso": "2022-12-29T01:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Toronto Raptors",
     "visiting": "Memphis Grizzlies",
     "iso": "2022-12-30T01:30:00+01:00",
@@ -33,7 +27,7 @@
     "hosting": "Utah Jazz",
     "visiting": "Sacramento Kings",
     "iso": "2023-01-04T03:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Philadelphia 76ers",
