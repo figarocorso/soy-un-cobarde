@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Atlanta Hawks",
-    "visiting": "Los Angeles Lakers",
-    "iso": "2022-12-31T01:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Denver Nuggets",
     "visiting": "Boston Celtics",
     "iso": "2023-01-02T02:00:00+01:00",
@@ -33,7 +27,7 @@
     "hosting": "Dallas Mavericks",
     "visiting": "Boston Celtics",
     "iso": "2023-01-06T01:30:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Denver Nuggets",
