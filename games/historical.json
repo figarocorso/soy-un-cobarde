@@ -1389,7 +1389,7 @@
     "hosting": "Washington Wizards",
     "visiting": "New Orleans Pelicans",
     "iso": "2023-01-10T01:00:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Miami Heat",
@@ -1468,5 +1468,35 @@
     "visiting": "New Orleans Pelicans",
     "iso": "2023-01-22T21:30:00+01:00",
     "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Houston Rockets",
+    "visiting": "Minnesota Timberwolves",
+    "iso": "2023-01-24T02:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Dallas Mavericks",
+    "visiting": "Washington Wizards",
+    "iso": "2023-01-25T02:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Brooklyn Nets",
+    "iso": "2023-01-26T01:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Brooklyn Nets",
+    "visiting": "Detroit Pistons",
+    "iso": "2023-01-27T01:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Indiana Pacers",
+    "visiting": "Milwaukee Bucks",
+    "iso": "2023-01-28T01:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
   }
 ]
