@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Philadelphia 76ers",
-    "visiting": "Indiana Pacers",
-    "iso": "2023-01-05T01:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Dallas Mavericks",
     "visiting": "Boston Celtics",
     "iso": "2023-01-06T01:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Miami Heat",
     "visiting": "Oklahoma City Thunder",
     "iso": "2023-01-11T01:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Boston Celtics",
@@ -142,5 +136,17 @@
     "visiting": "Milwaukee Bucks",
     "iso": "2023-01-28T01:00:00+01:00",
     "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Denver Nuggets",
+    "iso": "2023-01-28T21:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Charlotte Hornets",
+    "visiting": "Miami Heat",
+    "iso": "2023-01-29T19:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
   }
 ]
