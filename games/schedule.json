@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Dallas Mavericks",
-    "visiting": "Boston Celtics",
-    "iso": "2023-01-06T01:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Denver Nuggets",
     "visiting": "Cleveland Cavaliers",
     "iso": "2023-01-07T03:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Boston Celtics",
     "visiting": "New Orleans Pelicans",
     "iso": "2023-01-12T01:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Philadelphia 76ers",
