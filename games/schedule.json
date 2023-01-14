@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "San Antonio Spurs",
-    "visiting": "Boston Celtics",
-    "iso": "2023-01-08T00:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Toronto Raptors",
     "visiting": "Portland Trail Blazers",
     "iso": "2023-01-08T21:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Indiana Pacers",
     "visiting": "Atlanta Hawks",
     "iso": "2023-01-14T01:00:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Miami Heat",
