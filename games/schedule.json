@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Chicago Bulls",
-    "visiting": "Golden State Warriors",
-    "iso": "2023-01-15T21:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Memphis Grizzlies",
     "visiting": "Phoenix Suns",
     "iso": "2023-01-17T00:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Toronto Raptors",
     "visiting": "Boston Celtics",
     "iso": "2023-01-21T23:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Miami Heat",
