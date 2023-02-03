@@ -1521,7 +1521,7 @@
     "hosting": "Cleveland Cavaliers",
     "visiting": "Memphis Grizzlies",
     "iso": "2023-02-03T01:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Boston Celtics",
@@ -1530,8 +1530,8 @@
     "channel": "Movistar Plus Vamos"
   },
   {
-    "hosting": "Brooklyn Nets",
-    "visiting": "Washington Wizards",
+    "hosting": "New Orleans Pelicans",
+    "visiting": "Los Angeles Lakers",
     "iso": "2023-02-05T00:00:00+01:00",
     "channel": "Movistar Plus Vamos"
   },
