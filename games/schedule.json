@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "New Orleans Pelicans",
-    "visiting": "Los Angeles Lakers",
-    "iso": "2023-02-05T00:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Charlotte Hornets",
     "visiting": "Orlando Magic",
     "iso": "2023-02-05T19:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Philadelphia 76ers",
     "visiting": "New York Knicks",
     "iso": "2023-02-11T01:00:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Brooklyn Nets",
