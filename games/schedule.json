@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Los Angeles Lakers",
-    "visiting": "Oklahoma City Thunder",
-    "iso": "2023-02-08T04:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Boston Celtics",
     "visiting": "Philadelphia 76ers",
     "iso": "2023-02-09T01:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Dallas Mavericks",
     "visiting": "Minnesota Timberwolves",
     "iso": "2023-02-14T02:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Milwaukee Bucks",
@@ -81,6 +75,18 @@
     "hosting": "Dallas Mavericks",
     "visiting": "Los Angeles Lakers",
     "iso": "2023-02-26T21:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Miami Heat",
+    "iso": "2023-02-28T01:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Toronto Raptors",
+    "visiting": "Chicago Bulls",
+    "iso": "2023-03-01T01:30:00+01:00",
     "channel": "Movistar Plus Deportes"
   }
 ]
