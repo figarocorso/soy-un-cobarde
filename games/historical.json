@@ -1642,5 +1642,77 @@
     "visiting": "Chicago Bulls",
     "iso": "2023-03-01T01:30:00+01:00",
     "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "New York Knicks",
+    "visiting": "Brooklyn Nets",
+    "iso": "2023-03-02T01:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Dallas Mavericks",
+    "visiting": "Philadelphia 76ers",
+    "iso": "2023-03-03T01:30:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Chicago Bulls",
+    "visiting": "Phoenix Suns",
+    "iso": "2023-03-04T02:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Washington Wizards",
+    "visiting": "Toronto Raptors",
+    "iso": "2023-03-04T23:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Los Angeles Lakers",
+    "visiting": "Golden State Warriors",
+    "iso": "2023-03-05T21:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Indiana Pacers",
+    "visiting": "Philadelphia 76ers",
+    "iso": "2023-03-07T01:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Los Angeles Lakers",
+    "visiting": "Memphis Grizzlies",
+    "iso": "2023-03-08T04:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Denver Nuggets",
+    "visiting": "Chicago Bulls",
+    "iso": "2023-03-09T03:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Milwaukee Bucks",
+    "visiting": "Brooklyn Nets",
+    "iso": "2023-03-10T01:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Portland Trail Blazers",
+    "iso": "2023-03-11T01:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Los Angeles Clippers",
+    "visiting": "New York Knicks",
+    "iso": "2023-03-11T22:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Denver Nuggets",
+    "visiting": "Brooklyn Nets",
+    "iso": "2023-03-12T20:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
   }
 ]
