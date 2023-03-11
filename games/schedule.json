@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Washington Wizards",
-    "visiting": "Toronto Raptors",
-    "iso": "2023-03-04T23:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Los Angeles Lakers",
     "visiting": "Golden State Warriors",
     "iso": "2023-03-05T21:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Philadelphia 76ers",
     "visiting": "Portland Trail Blazers",
     "iso": "2023-03-11T01:00:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Los Angeles Clippers",
