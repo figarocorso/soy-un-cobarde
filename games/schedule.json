@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Los Angeles Lakers",
-    "visiting": "Golden State Warriors",
-    "iso": "2023-03-05T21:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Indiana Pacers",
     "visiting": "Philadelphia 76ers",
     "iso": "2023-03-07T01:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Los Angeles Clippers",
     "visiting": "New York Knicks",
     "iso": "2023-03-11T22:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Denver Nuggets",
