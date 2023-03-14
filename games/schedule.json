@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Los Angeles Lakers",
-    "visiting": "Memphis Grizzlies",
-    "iso": "2023-03-08T04:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Denver Nuggets",
     "visiting": "Chicago Bulls",
     "iso": "2023-03-09T03:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Dallas Mavericks",
     "visiting": "Memphis Grizzlies",
     "iso": "2023-03-14T00:30:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Oklahoma City Thunder",
