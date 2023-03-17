@@ -1737,7 +1737,7 @@
     "hosting": "Brooklyn Nets",
     "visiting": "Sacramento Kings",
     "iso": "2023-03-17T00:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Cleveland Cavaliers",
@@ -1797,6 +1797,48 @@
     "hosting": "Los Angeles Lakers",
     "visiting": "Chicago Bulls",
     "iso": "2023-03-26T21:30:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Detroit Pistons",
+    "visiting": "Milwaukee Bucks",
+    "iso": "2023-03-28T01:00:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Washington Wizards",
+    "visiting": "Boston Celtics",
+    "iso": "2023-03-29T01:00:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Philadelphia 76ers",
+    "visiting": "Dallas Mavericks",
+    "iso": "2023-03-30T01:30:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Milwaukee Bucks",
+    "visiting": "Boston Celtics",
+    "iso": "2023-03-31T01:30:00+02:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Brooklyn Nets",
+    "visiting": "Atlanta Hawks",
+    "iso": "2023-04-01T01:30:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Miami Heat",
+    "visiting": "Dallas Mavericks",
+    "iso": "2023-04-02T01:30:00+02:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Chicago Bulls",
+    "visiting": "Memphis Grizzlies",
+    "iso": "2023-04-02T21:30:00+02:00",
     "channel": "Movistar Plus Deportes"
   }
 ]
