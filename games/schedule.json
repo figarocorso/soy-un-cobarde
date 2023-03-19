@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Denver Nuggets",
-    "visiting": "Brooklyn Nets",
-    "iso": "2023-03-12T20:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Dallas Mavericks",
     "visiting": "Memphis Grizzlies",
     "iso": "2023-03-14T00:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "New York Knicks",
     "visiting": "Denver Nuggets",
     "iso": "2023-03-18T18:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Brooklyn Nets",
