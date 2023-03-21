@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Oklahoma City Thunder",
-    "visiting": "Brooklyn Nets",
-    "iso": "2023-03-15T01:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Miami Heat",
     "visiting": "Memphis Grizzlies",
     "iso": "2023-03-16T00:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Houston Rockets",
     "visiting": "Golden State Warriors",
     "iso": "2023-03-21T01:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Brooklyn Nets",
