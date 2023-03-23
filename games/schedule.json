@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Brooklyn Nets",
-    "visiting": "Sacramento Kings",
-    "iso": "2023-03-17T00:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Cleveland Cavaliers",
     "visiting": "Washington Wizards",
     "iso": "2023-03-18T00:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Dallas Mavericks",
     "visiting": "Golden State Warriors",
     "iso": "2023-03-23T00:30:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Brooklyn Nets",
