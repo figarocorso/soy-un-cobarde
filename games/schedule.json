@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Detroit Pistons",
-    "visiting": "Milwaukee Bucks",
-    "iso": "2023-03-28T01:00:00+02:00",
-    "channel": ""
-  },
-  {
     "hosting": "Washington Wizards",
     "visiting": "Boston Celtics",
     "iso": "2023-03-29T01:00:00+02:00",
@@ -39,7 +33,7 @@
     "hosting": "Chicago Bulls",
     "visiting": "Memphis Grizzlies",
     "iso": "2023-04-02T21:30:00+02:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Philadelphia 76ers",
