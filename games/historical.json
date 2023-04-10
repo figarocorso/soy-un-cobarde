@@ -1869,6 +1869,30 @@
     "hosting": "Los Angeles Clippers",
     "visiting": "Phoenix Suns",
     "iso": "2023-04-09T21:30:00+02:00",
+    "channel": ""
+  },
+  {
+    "hosting": "Miami Heat",
+    "visiting": "Atlanta Hawks",
+    "iso": "2023-04-12T01:30:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Los Angeles Lakers",
+    "visiting": "Minnesota Timberwolves",
+    "iso": "2023-04-12T04:00:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Toronto Raptors",
+    "visiting": "Chicago Bulls",
+    "iso": "2023-04-13T01:00:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "New Orleans Pelicans",
+    "visiting": "Oklahoma City Thunder",
+    "iso": "2023-04-13T03:30:00+02:00",
     "channel": "Movistar Plus Deportes"
   }
 ]
