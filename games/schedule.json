@@ -1,17 +1,5 @@
 [
   {
-    "hosting": "Toronto Raptors",
-    "visiting": "Chicago Bulls",
-    "iso": "2023-04-13T01:00:00+02:00",
-    "channel": ""
-  },
-  {
-    "hosting": "New Orleans Pelicans",
-    "visiting": "Oklahoma City Thunder",
-    "iso": "2023-04-13T03:30:00+02:00",
-    "channel": ""
-  },
-  {
     "hosting": "Miami Heat",
     "visiting": "Chicago Bulls",
     "iso": "2023-04-15T01:00:00+02:00",
@@ -33,7 +21,7 @@
     "hosting": "Boston Celtics",
     "visiting": "Atlanta Hawks",
     "iso": "2023-04-19T01:00:00+02:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Memphis Grizzlies",
