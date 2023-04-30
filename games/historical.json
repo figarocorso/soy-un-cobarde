@@ -1948,5 +1948,29 @@
     "visiting": "Sacramento Kings",
     "iso": "2023-04-23T21:30:00+02:00",
     "channel": ""
+  },
+  {
+    "hosting": "New York Knicks",
+    "visiting": "Miami Heat",
+    "iso": "2023-04-30T19:00:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Boston Celtics",
+    "visiting": "Philadelphia 76ers",
+    "iso": "2023-05-02T01:30:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Denver Nuggets",
+    "visiting": "Phoenix Suns",
+    "iso": "2023-05-02T04:00:00+02:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "New York Knicks",
+    "visiting": "Miami Heat",
+    "iso": "2023-05-03T01:30:00+02:00",
+    "channel": "Movistar Plus Deportes"
   }
 ]
