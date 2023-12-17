@@ -118,5 +118,47 @@
     "visiting": "Miami Heat",
     "iso": "2023-12-30T23:00:00+01:00",
     "channel": ""
+  },
+  {
+    "hosting": "Utah Jazz",
+    "visiting": "Dallas Mavericks",
+    "iso": "2024-01-02T03:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Memphis Grizzlies",
+    "visiting": "San Antonio Spurs",
+    "iso": "2024-01-03T02:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Indiana Pacers",
+    "visiting": "Milwaukee Bucks",
+    "iso": "2024-01-04T01:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "San Antonio Spurs",
+    "visiting": "Milwaukee Bucks",
+    "iso": "2024-01-05T01:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "New Orleans Pelicans",
+    "visiting": "Los Angeles Clippers",
+    "iso": "2024-01-06T02:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Indiana Pacers",
+    "visiting": "Boston Celtics",
+    "iso": "2024-01-07T01:00:00+01:00",
+    "channel": ""
+  },
+  {
+    "hosting": "Cleveland Cavaliers",
+    "visiting": "San Antonio Spurs",
+    "iso": "2024-01-07T19:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
   }
 ]
