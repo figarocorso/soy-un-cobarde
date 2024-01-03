@@ -2103,7 +2103,7 @@
     "hosting": "Memphis Grizzlies",
     "visiting": "San Antonio Spurs",
     "iso": "2024-01-03T02:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Indiana Pacers",
@@ -2133,6 +2133,54 @@
     "hosting": "Cleveland Cavaliers",
     "visiting": "San Antonio Spurs",
     "iso": "2024-01-07T19:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Milwaukee Bucks",
+    "visiting": "Utah Jazz",
+    "iso": "2024-01-09T02:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Orlando Magic",
+    "visiting": "Minnesota Timberwolves",
+    "iso": "2024-01-10T01:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Boston Celtics",
+    "visiting": "Minnesota Timberwolves",
+    "iso": "2024-01-11T01:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Cleveland Cavaliers",
+    "visiting": "Brooklyn Nets",
+    "iso": "2024-01-11T20:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Milwaukee Bucks",
+    "visiting": "Boston Celtics",
+    "iso": "2024-01-12T01:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Denver Nuggets",
+    "visiting": "New Orleans Pelicans",
+    "iso": "2024-01-13T03:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Milwaukee Bucks",
+    "visiting": "Golden State Warriors",
+    "iso": "2024-01-14T02:00:00+01:00",
+    "channel": ""
+  },
+  {
+    "hosting": "Denver Nuggets",
+    "visiting": "Indiana Pacers",
+    "iso": "2024-01-14T21:30:00+01:00",
     "channel": "Movistar Plus Vamos"
   }
 ]
