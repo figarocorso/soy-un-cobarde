@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Minnesota Timberwolves",
-    "visiting": "Dallas Mavericks",
-    "iso": "2023-12-29T02:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Atlanta Hawks",
     "visiting": "Sacramento Kings",
     "iso": "2023-12-30T01:30:00+01:00",
@@ -33,7 +27,7 @@
     "hosting": "Indiana Pacers",
     "visiting": "Milwaukee Bucks",
     "iso": "2024-01-04T01:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "San Antonio Spurs",
