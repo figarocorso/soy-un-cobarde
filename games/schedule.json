@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Orlando Magic",
-    "visiting": "Minnesota Timberwolves",
-    "iso": "2024-01-10T01:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Boston Celtics",
     "visiting": "Minnesota Timberwolves",
     "iso": "2024-01-11T01:00:00+01:00",
@@ -45,7 +39,7 @@
     "hosting": "Memphis Grizzlies",
     "visiting": "Golden State Warriors",
     "iso": "2024-01-16T00:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Philadelphia 76ers",
