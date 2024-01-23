@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Philadelphia 76ers",
-    "visiting": "Denver Nuggets",
-    "iso": "2024-01-17T01:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Cleveland Cavaliers",
     "visiting": "Milwaukee Bucks",
     "iso": "2024-01-18T01:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Phoenix Suns",
     "visiting": "Chicago Bulls",
     "iso": "2024-01-23T03:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "New Orleans Pelicans",
