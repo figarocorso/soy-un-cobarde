@@ -2319,13 +2319,13 @@
     "hosting": "Miami Heat",
     "visiting": "Orlando Magic",
     "iso": "2024-02-07T01:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Philadelphia 76ers",
     "visiting": "Golden State Warriors",
     "iso": "2024-02-08T01:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Milwaukee Bucks",
@@ -2398,5 +2398,29 @@
     "visiting": "Los Angeles Lakers",
     "iso": "2024-02-25T21:30:00+01:00",
     "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Indiana Pacers",
+    "visiting": "Toronto Raptors",
+    "iso": "2024-02-27T01:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Boston Celtics",
+    "visiting": "Philadelphia 76ers",
+    "iso": "2024-02-28T01:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Indiana Pacers",
+    "visiting": "New Orleans Pelicans",
+    "iso": "2024-02-29T01:00:00+01:00",
+    "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "New York Knicks",
+    "visiting": "Golden State Warriors",
+    "iso": "2024-03-01T01:30:00+01:00",
+    "channel": "Movistar Plus Deportes"
   }
 ]
