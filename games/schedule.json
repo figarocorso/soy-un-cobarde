@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Washington Wizards",
-    "visiting": "Phoenix Suns",
-    "iso": "2024-02-04T21:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Philadelphia 76ers",
     "visiting": "Dallas Mavericks",
     "iso": "2024-02-06T01:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Dallas Mavericks",
     "visiting": "Oklahoma City Thunder",
     "iso": "2024-02-10T21:00:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Miami Heat",
