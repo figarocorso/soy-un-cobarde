@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Philadelphia 76ers",
-    "visiting": "Atlanta Hawks",
-    "iso": "2024-02-10T01:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Dallas Mavericks",
     "visiting": "Oklahoma City Thunder",
     "iso": "2024-02-10T21:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Memphis Grizzlies",
     "visiting": "Milwaukee Bucks",
     "iso": "2024-02-16T02:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Oklahoma City Thunder",
