@@ -2422,5 +2422,23 @@
     "visiting": "Golden State Warriors",
     "iso": "2024-03-01T01:30:00+01:00",
     "channel": "Movistar Plus Deportes"
+  },
+  {
+    "hosting": "Minnesota Timberwolves",
+    "visiting": "Sacramento Kings",
+    "iso": "2024-03-02T02:00:00+01:00",
+    "channel": "Movistar Plus Vamos"
+  },
+  {
+    "hosting": "Los Angeles Lakers",
+    "visiting": "Denver Nuggets",
+    "iso": "2024-03-03T02:30:00+01:00",
+    "channel": ""
+  },
+  {
+    "hosting": "Boston Celtics",
+    "visiting": "Golden State Warriors",
+    "iso": "2024-03-03T21:30:00+01:00",
+    "channel": "Movistar Plus Vamos"
   }
 ]
