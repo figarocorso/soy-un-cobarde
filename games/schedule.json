@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "New York Knicks",
-    "visiting": "Boston Celtics",
-    "iso": "2024-02-25T02:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Phoenix Suns",
     "visiting": "Los Angeles Lakers",
     "iso": "2024-02-25T21:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Minnesota Timberwolves",
     "visiting": "Sacramento Kings",
     "iso": "2024-03-02T02:00:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Los Angeles Lakers",
