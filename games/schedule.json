@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Indiana Pacers",
-    "visiting": "Toronto Raptors",
-    "iso": "2024-02-27T01:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Boston Celtics",
     "visiting": "Philadelphia 76ers",
     "iso": "2024-02-28T01:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Boston Celtics",
     "visiting": "Golden State Warriors",
     "iso": "2024-03-03T21:30:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Milwaukee Bucks",
