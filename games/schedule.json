@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Los Angeles Lakers",
-    "visiting": "Denver Nuggets",
-    "iso": "2024-03-03T02:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Boston Celtics",
     "visiting": "Golden State Warriors",
     "iso": "2024-03-03T21:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Oklahoma City Thunder",
     "visiting": "Miami Heat",
     "iso": "2024-03-09T02:00:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Phoenix Suns",
