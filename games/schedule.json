@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Oklahoma City Thunder",
-    "visiting": "Miami Heat",
-    "iso": "2024-03-09T02:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Phoenix Suns",
     "visiting": "Boston Celtics",
     "iso": "2024-03-10T02:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Boston Celtics",
     "visiting": "Phoenix Suns",
     "iso": "2024-03-15T00:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "New Orleans Pelicans",
