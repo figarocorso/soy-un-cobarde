@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "New Orleans Pelicans",
-    "visiting": "Los Angeles Clippers",
-    "iso": "2024-03-16T01:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Los Angeles Lakers",
     "visiting": "Golden State Warriors",
     "iso": "2024-03-17T01:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Dallas Mavericks",
     "visiting": "Utah Jazz",
     "iso": "2024-03-22T01:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Minnesota Timberwolves",
