@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Indiana Pacers",
-    "visiting": "Cleveland Cavaliers",
-    "iso": "2024-03-19T00:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Brooklyn Nets",
     "visiting": "New Orleans Pelicans",
     "iso": "2024-03-20T00:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Los Angeles Clippers",
     "visiting": "Philadelphia 76ers",
     "iso": "2024-03-24T20:30:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Cleveland Cavaliers",
