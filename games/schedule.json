@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Brooklyn Nets",
-    "visiting": "New Orleans Pelicans",
-    "iso": "2024-03-20T00:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Boston Celtics",
     "visiting": "Milwaukee Bucks",
     "iso": "2024-03-21T00:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Cleveland Cavaliers",
     "visiting": "Charlotte Hornets",
     "iso": "2024-03-26T00:00:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "Milwaukee Bucks",
