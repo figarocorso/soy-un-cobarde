@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Minnesota Timberwolves",
-    "visiting": "Cleveland Cavaliers",
-    "iso": "2024-03-23T01:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "New York Knicks",
     "visiting": "Brooklyn Nets",
     "iso": "2024-03-23T18:00:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "Atlanta Hawks",
     "visiting": "Boston Celtics",
     "iso": "2024-03-29T00:30:00+01:00",
-    "channel": "Movistar Plus Deportes"
+    "channel": ""
   },
   {
     "hosting": "San Antonio Spurs",
