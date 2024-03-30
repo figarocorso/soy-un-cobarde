@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "New York Knicks",
-    "visiting": "Brooklyn Nets",
-    "iso": "2024-03-23T18:00:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Los Angeles Clippers",
     "visiting": "Philadelphia 76ers",
     "iso": "2024-03-24T20:30:00+01:00",
@@ -39,7 +33,7 @@
     "hosting": "San Antonio Spurs",
     "visiting": "New York Knicks",
     "iso": "2024-03-30T01:00:00+01:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Atlanta Hawks",
