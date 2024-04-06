@@ -1,11 +1,5 @@
 [
   {
-    "hosting": "Atlanta Hawks",
-    "visiting": "Milwaukee Bucks",
-    "iso": "2024-03-31T00:30:00+01:00",
-    "channel": ""
-  },
-  {
     "hosting": "Denver Nuggets",
     "visiting": "Cleveland Cavaliers",
     "iso": "2024-03-31T21:30:00+02:00",
@@ -39,7 +33,7 @@
     "hosting": "Indiana Pacers",
     "visiting": "Oklahoma City Thunder",
     "iso": "2024-04-06T01:00:00+02:00",
-    "channel": "Movistar Plus Vamos"
+    "channel": ""
   },
   {
     "hosting": "Memphis Grizzlies",
